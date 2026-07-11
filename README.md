@@ -29,4 +29,4 @@ Because this app does not rely on complex back-end frameworks or a build pipelin
 
 ## ⚠️ Disclaimer
 
-SkinIQ provides cosmetic guidance based on image analysis and does not replace professional dermatological diagnosis[cite: 2].
+SkinIQ provides cosmetic guidance based on image analysis and does not replace professional dermatological diagnosis.
