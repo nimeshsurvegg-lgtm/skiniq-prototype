@@ -15,7 +15,6 @@
 ---
 
 ## 📖 Overview
-[Rest of your README content goes here...]
 
 > **Overview:** SkinIQ is a premium, web-based skincare assistant. It utilizes image analysis and an intelligent questionnaire to provide users with a "Skin Health Score" and customized product recommendations tailored to their unique skin barrier needs.
 
