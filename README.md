@@ -47,6 +47,8 @@
 
 2. Simply open index.html in any modern web browser[cite: 3].
 
+---
+
 ## 🧠 Technical Architecture
 **Frontend:** A high-performance, single-file prototype using vanilla HTML5, CSS3, and JavaScript[cite: 3].
 
@@ -55,6 +57,8 @@
 **Persistence:** Leverages localStorage for user sessions, historical scan data, and theme preferences[cite: 3].
 
 **No Dependencies:** Runs entirely in the browser; does not require external build tools or server-side frameworks[cite: 3].
+
+---
 
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
