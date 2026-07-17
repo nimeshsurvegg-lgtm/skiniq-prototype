@@ -10,6 +10,13 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
 </p>
 
+> **Status:** 🚧 Actively under development. Features and documentation are being updated frequently.
+
+---
+
+## 📖 Overview
+[Rest of your README content goes here...]
+
 > **Overview:** SkinIQ is a premium, web-based skincare assistant. It utilizes image analysis and an intelligent questionnaire to provide users with a "Skin Health Score" and customized product recommendations tailored to their unique skin barrier needs.
 
 ---
